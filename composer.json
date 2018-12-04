@@ -1,0 +1,20 @@
+{
+    "name": "sameer/roompkg",
+    "description": "This is description of my first ever try for packagedevelopment in laravel. name is RoomPkg",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sameer Gautam",
+            "email": "sameerg@khozinfo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+
+    "autoload-dev": {
+        "psr-4": {
+            "Sameer\\Roompkg\\": "src/"
+        }
+    }
+}
