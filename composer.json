@@ -19,8 +19,9 @@
     },
     "extra": {
         "laravel": {
+            
             "providers": [
-                "Sameer\\Roompkg\\RoomServiceProvider"
+                "Sameer\\Roompkg\\RoomServiceProvider" 
             ]
         }
     }
