@@ -16,5 +16,12 @@
         "psr-4": {
             "Sameer\\Roompkg\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Sameer\\Roompkg\\RoomServiceProvider"
+            ]
+        }
     }
 }
